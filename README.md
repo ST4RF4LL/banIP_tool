@@ -6,4 +6,5 @@
 # Details
 暂时先实现一下基本的功能，实现一个半自动化。
 ## 原理
+参考![https://blog.csdn.net/teamlet/article/details/78529675](https://blog.csdn.net/teamlet/article/details/78529675)的措施1  
 从lastb中获取IP并进行处理，再写入`/etc/hosts.deny`.
